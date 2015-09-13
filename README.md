@@ -4,7 +4,7 @@
 ![home](./screenshot/home.png)
 
 ### About
-This WriteTyper app works on Mac OS X 10.10+, writen in `Swift 2.0`, based on NoisyTyper. It can make old typewriter sounds when you keypress, let you nore enjoy the time of coding or writing.
+This WriteTyper app works on Mac OS X 10.10+, writen in `Swift 2.0`, based on NoisyTyper. It can make old typewriter sounds when you keypress, let you more enjoy the time of coding or writing.
 
 ### Install
 > It's very easy to install this app.
