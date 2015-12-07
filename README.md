@@ -1,4 +1,4 @@
-# WriteTyper [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper/fork) [![license](https://img.shields.io/github/license/Urinx/WriteTyper.svg)](https://github.com/Urinx/WriteTyper/blob/master/LICENSE) ![platform](https://img.shields.io/badge/platform-osx-lightgrey.svg) ![download](https://img.shields.io/github/downloads/Urinx/WriteTyper/total.svg)
+# WriteTyper [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper/fork) [![license](https://img.shields.io/github/license/Urinx/WriteTyper.svg)](https://github.com/Urinx/WriteTyper/blob/master/LICENSE) ![platform](https://img.shields.io/badge/platform-osx-lightgrey.svg) [![download](https://img.shields.io/github/downloads/Urinx/WriteTyper/total.svg)](https://github.com/Urinx/WriteTyper/releases)
 
 復古打字機 — Mac OS X App [官网](http://urinx.github.io/app/writetyper)
 
@@ -10,7 +10,7 @@ This WriteTyper app works on Mac OS X 10.10+, writen in `Swift 2.0`, based on No
 ### Install
 > It's very easy to install this app.
 > 
-> Download the app, double click to run it. And then go to the System Preferences -> Security & Privacy, enable Accessibility for WriteTyper. At last, quit it and reopen.
+> Download the [app](https://github.com/Urinx/WriteTyper/releases), double click to run it. And then go to the System Preferences -> Security & Privacy, enable Accessibility for WriteTyper. At last, quit it and reopen.
 > 
 > Notice: for it to work, Accessibility for WriteTyper must be enabled.
 
