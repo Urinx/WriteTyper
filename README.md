@@ -1,4 +1,4 @@
-# WriteTyper [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper/fork) 
+# WriteTyper [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper/fork) [![license](https://img.shields.io/github/license/Urinx/WriteTyper.svg)](https://github.com/Urinx/WriteTyper/blob/master/LICENSE) ![platform](https://img.shields.io/badge/platform-osx-lightgrey.svg) ![download](https://img.shields.io/github/downloads/Urinx/WriteTyper/total.svg)
 
 復古打字機 — Mac OS X App [官网](http://urinx.github.io/app/writetyper)
 
