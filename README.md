@@ -1,4 +1,5 @@
-# WriteTyper
+# WriteTyper [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=Urinx&repo=WriteTyper&style=flat&background=1081C1)](http://github.com/Urinx/WriteTyper/fork) 
+
 復古打字機 — Mac OS X App [官网](http://urinx.github.io/app/writetyper)
 
 ![home](./screenshot/home.png)
